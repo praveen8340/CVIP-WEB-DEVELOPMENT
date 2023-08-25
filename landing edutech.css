@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-card {
+    text-align: center;
+    padding: 100px 0;
+    background-image: url("https://img.freepik.com/free-vector/online-tutorials-concept_52683-37480.jpg?w=826&t=st=1692255456~exp=1692256056~hmac=4758578fb57bd0989ed2eab10730694609dfc37e3421346dea731e1d291235c9");
+    color: white;
+    background-size: cover;
+    height: 95vh;
+    width: 98vw;
+}
+
+
+.virtul-reality-bg {
+    background-image: url("https://img.freepik.com/free-vector/online-tutorials-concept_52683-37480.jpg?w=826&t=st=1692255456~exp=1692256056~hmac=4758578fb57bd0989ed2eab10730694609dfc37e3421346dea731e1d291235c9");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.vr-heading {
+    color: white;
+    font-weight: bold;
+    font-size: 38px;
+}
+
+.view-button {
+    background-color: #1a2137;
+    color: white;
+    border-width: 0px;
+    height: 40px;
+    width: 95px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.heading1 {
+    color: black;
+    font-weight: bold;
+    font-size: 38px;
+    padding-top: px;
+}
+
+.para {
+    color: skyblue;
+}
+
+.view-button {
+    background-color: darkblue;
+    color: white;
+    border-width: 0px;
+    height: 40px;
+    width: 95px;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.bg-container {
+    background-color: #52606d;
+}
+
+.portfolio-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.project-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.bg-hotel-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.web-image {
+    height: 50px;
+    width: 50px;
+}
+
+.static-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.static-paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.bg-card-container {
+    background-color: #19232d;
+    height: ;
+    width: ;
+}
+
+.icon-container {
+    background-color: #202b36;
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    margin: 15px;
+}
+
+.logo-image {
+    height: 50px;
+    width: 70px;
+}
+
+.icon {
+    color: #959ead;
+    font-size: 30px;
+    padding-top: 12px;
+    padding-bottom: 14px;
+    padding-right: 14px;
+    padding-left: 12px;
+}
+
+.paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+.heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: 700;
+    padding-left: px;
+}
+
+.contact-icon {
+    color: #5a7184;
+    font-size: 20px;
+}
